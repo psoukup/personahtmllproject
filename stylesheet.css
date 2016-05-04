@@ -1,0 +1,39 @@
+body {
+  margin: 0px;
+}
+
+header {
+  text-align: center;
+  font-size: 34px;
+  color: orange;
+  border-bottom: 10px solid orange;
+  background: url("https://s-media-cache-ak0.pinimg.com/600x315/2c/84/0e/2c840e86d494c5e809f850b00a69ad29.jpg");
+  background-size: auto;
+
+}
+
+ul {
+  background-color: black;
+  position: relative;
+  top: -16px;
+  height: 30px;
+  width: auto;
+
+
+}
+ul li {
+  display: inline-block;
+  color: orange;
+  border: 1px solid orange;
+  position: relative;
+  top: 25%;
+  bottom: 25%;
+  left: 25%;
+  right: 25%;
+
+}
+
+li {
+  width: auto;
+
+}
