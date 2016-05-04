@@ -12,12 +12,19 @@ header {
 
 }
 
+h1 {
+  position: relative;
+  top: 30px;
+}
+
 ul {
   background-color: black;
   position: relative;
-  top: -16px;
-  height: 30px;
-  width: auto;
+  top: -20px;
+  height: 40px;
+  width: 100%;
+  font-size: 20px;
+  float: left;
 
 
 }
